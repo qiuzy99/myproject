@@ -33,3 +33,4 @@ for idx in range(0,6):
         print((i-arr[idx])*rat[idx]) 
         i=arr[idx]
 print(r)
+print(r）
